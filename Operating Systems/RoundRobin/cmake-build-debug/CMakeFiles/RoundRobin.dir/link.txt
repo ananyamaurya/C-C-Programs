@@ -1,0 +1,3 @@
+"F:\Jetbrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RoundRobin.dir/objects.a
+"F:\Program Files (x86)\Dev-Cpp\TDM-GCC-64\bin\ar.exe" cr CMakeFiles\RoundRobin.dir/objects.a @CMakeFiles\RoundRobin.dir\objects1.rsp
+"F:\Program Files (x86)\Dev-Cpp\TDM-GCC-64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\RoundRobin.dir/objects.a -Wl,--no-whole-archive  -o RoundRobin.exe -Wl,--out-implib,libRoundRobin.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RoundRobin.dir\linklibs.rsp

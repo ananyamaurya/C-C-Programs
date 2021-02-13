@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Python/Programming Questions/C-C-Programs/Operating Systems/RoundRobin/main.cpp
+stdio.h
+-
+conio.h
+-
+
