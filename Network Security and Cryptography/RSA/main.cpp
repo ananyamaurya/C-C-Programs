@@ -33,9 +33,10 @@ int main() {
             d = findD(e,pn);
             cout<<"Keys are :: "<<e<<" "<<d;
             m=88;
+            cout<<"Message is &d :: "<<m;
             c=pow(m,e);
             c=c%fn;
-            cout<<"\n"<<c;
+            cout<<"\n"<<c;88j
         }
         else{
             goto L1;
